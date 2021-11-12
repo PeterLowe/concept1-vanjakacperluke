@@ -1,5 +1,5 @@
 Title
-insert team member names here
+Vanja,
 
 Elevator pitch 
 Describe your game in 30 seconds or less
