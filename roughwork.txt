@@ -1,6 +1,8 @@
 Title
 
-Vanja,luke
+
+Vanja,luke,kacper
+
 
 Elevator pitch 
 Describe your game in 30 seconds or less
