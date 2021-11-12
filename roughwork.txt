@@ -9,6 +9,11 @@ main differences in your game world
 ...
 Pillars
 3-4 fundementals of this game
+
+1 - Racing - Actual racing is the core of the game 
+2 - Shooting - While racing, racers will come across enemies that will try stop and slow them down
+3 - Upgrading vehicle - Upgrading visuals, weaponry, speed and other general stats.
+
 ...
 30 second gameplay description
 
