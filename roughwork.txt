@@ -1,8 +1,5 @@
 Title
-
-
 Vanja,luke,kacper
-
 
 Elevator pitch 
 Describe your game in 30 seconds or less
@@ -14,7 +11,11 @@ Pillars
 3-4 fundementals of this game
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+
+The races count towards point and have ingame currency which can help you acquire new drivers, upgrades to ships, new ships. 
+The races take place both in space and on alien planets and your vehicle will change depending on the environment. There is a shooter
+aspect to the game, meaning you will also have to upgrade weaponry on your vehicle. Think mario kart but space and blood. 
+
 ...
 Features points
 key selling points of your game
